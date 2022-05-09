@@ -45,5 +45,6 @@ Link for notebook: https://github.com/richardwarepam16/car_price_predictor/blob/
 
 4. This project was given the form of an website built on Flask where we used the Linear Regression model to perform predictions.
 
-Learned from Demo Video: https://youtu.be/HEaFU68WAPM
+
+Learned from Campus X
 
