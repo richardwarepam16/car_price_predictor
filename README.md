@@ -37,7 +37,7 @@ And you are good to go.
 1. First of all the data was scraped from Quikr.com (https://quikr.com) 
 Link for data: https://github.com/richardwarepam16/car_price_predictor/blob/master/quikr_car.csv
 
-2. The data was cleaned (it was super unclean :( ) and analysed.
+2. The data was cleaned (it was super unclean) and analysed.
 
 3. Then a Linear Regression model was built on top of it which had 0.92 R2_score.
 
