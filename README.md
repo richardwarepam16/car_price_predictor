@@ -1,4 +1,4 @@
-# Car Price Predictor
+# Car Price Predictor - [Richard Warepam](https://linktr.ee/richardwarepam16)
 
 <img src="https://github.com/richardwarepam16/car_price_predictor/blob/master/pro-demo.png">
 
